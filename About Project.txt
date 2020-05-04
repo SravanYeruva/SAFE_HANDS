@@ -1,0 +1,12 @@
+Aim : To Provide Security to girls.
+Framework Used : MIT AI 2
+Project Description :
+App consists of various tools to assist a Girl in times of emergency.
+Some the noticeable tools are
+Loud Police Alarm(gives a loud police siren)
+Emergency Button(on press calls SOS and sends location to all emergency contacts)
+FAST CALL(enhanced call UI can be used to call faster than standard phone UI,proven) 
+and included with safety information other 11 safety tools
+Improvisations:
+Using AI we can deliver faster emergency Services.
+Can be used to confuse victims using google in their smart device and getting their info if the device around the victim device.
